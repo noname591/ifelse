@@ -1,0 +1,6 @@
+int a=5;
+intb=3;
+if(a+b > 10)
+{
+Console.WrtieLine("The answer is greater than 10");
+}
